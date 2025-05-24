@@ -2,7 +2,7 @@
 
 This repository contains my personal collection of web development projects built using HTML, CSS, and (soon) JavaScript. Each project reflects my learning progress, design practice, and commitment to becoming a skilled frontend developer.
 
-> I’m Sourav Kumar, a B.Tech Computer Science student at UCET Hazaribagh, on a mission to build clean, responsive, and accessible websites.  
+> I’m Riyanshu Sharma, a B.Tech Computer Science student at UCET Hazaribagh, on a mission to build clean, responsive, and accessible websites.  
 > 🔗 GitHub: [Sharmariyanshu](https://github.com/Sharmariyanshu)  
 
 ---
