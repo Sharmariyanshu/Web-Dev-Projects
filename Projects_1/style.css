@@ -19,7 +19,7 @@
     background-image: url("amazon_logo.png");
     background-size: cover;
     height: 50px;
-    width: 100px;
+    width: 100%;
 }
 .border {
     border: 2px solid transparent;
@@ -244,6 +244,8 @@ ul a {
 
 .pages {
     font-size: 0.7rem;
+    text-align: center;
+    padding-top: 25px;
 }
 
 .copyright {
