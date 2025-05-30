@@ -1,4 +1,4 @@
-# 💻 Web Development Projects — By Sourav Kumar
+# 💻 Web Development Projects — By Riyanshu Sharma
 
 This repository contains my personal collection of web development projects built using HTML, CSS, and (soon) JavaScript. Each project reflects my learning progress, design practice, and commitment to becoming a skilled frontend developer.
 
